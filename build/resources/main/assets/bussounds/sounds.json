@@ -1,6 +1,5 @@
 {
   "place_campagne": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:place_campagnet",
@@ -9,7 +8,6 @@
     ]
   },
   "champs_de_ble": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:champs_de_ble",
@@ -18,7 +16,6 @@
     ]
   },
   "sogzit": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:sogzit",
@@ -27,7 +24,6 @@
     ]
   },
   "pain": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:pain",
@@ -36,7 +32,6 @@
     ]
   },
   "feb_21": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:21_feb",
@@ -45,7 +40,6 @@
     ]
   },
   "parc_commun": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:parc_commun",
@@ -54,7 +48,6 @@
     ]
   },
   "roust": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:roust",
@@ -63,7 +56,6 @@
     ]
   },
   "point_bronze": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:point_bronze",
@@ -72,7 +64,6 @@
     ]
   },
   "centre_ville": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:centre_ville",
@@ -81,7 +72,6 @@
     ]
   },
   "gare": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:gare",
@@ -90,7 +80,6 @@
     ]
   },
   "castadream": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:castadream",
@@ -99,7 +88,6 @@
     ]
   },
   "feb_29": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:29_feb",
@@ -108,7 +96,6 @@
     ]
   },
   "litieum": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:litieum",
@@ -117,7 +104,6 @@
     ]
   },
   "frank": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:frank",
@@ -126,7 +112,6 @@
     ]
   },
   "abby": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:abby",
@@ -135,7 +120,6 @@
     ]
   },
   "decolor": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:decolor",
@@ -144,7 +128,6 @@
     ]
   },
   "roland": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:roland",
@@ -153,7 +136,6 @@
     ]
   },
   "centre_logistique": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:centre_logistique",
@@ -162,7 +144,6 @@
     ]
   },
   "ile": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:ile",
@@ -171,7 +152,6 @@
     ]
   },
   "feuwar": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:feuwar",
@@ -180,7 +160,6 @@
     ]
   },
   "rails": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:rails",
@@ -189,7 +168,6 @@
     ]
   },
   "cimetiere": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:cimetiere",
@@ -198,7 +176,6 @@
     ]
   },
   "rue": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:rue",
@@ -207,7 +184,6 @@
     ]
   },
   "nov_11": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:11_nov",
@@ -216,7 +192,6 @@
     ]
   },
   "campagne": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:campagne",
@@ -225,7 +200,6 @@
     ]
   },
   "fontaine": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:fontaine",
@@ -234,7 +208,6 @@
     ]
   },
   "charmaux": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:charmaux",
@@ -243,7 +216,6 @@
     ]
   },
   "pont_deau": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:pont_deau",
@@ -252,7 +224,6 @@
     ]
   },
   "flaurete": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:flaurete",
@@ -261,7 +232,6 @@
     ]
   },
   "durian": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:durian",
@@ -270,7 +240,6 @@
     ]
   },
   "troubadour": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:troubadour",
@@ -279,7 +248,6 @@
     ]
   },
   "st_poulin": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:st_poulin",
@@ -288,7 +256,6 @@
     ]
   },
   "eduico": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:eduico",
@@ -297,7 +264,6 @@
     ]
   },
   "mais_1": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:1_mais",
@@ -306,7 +272,6 @@
     ]
   },
   "theatre": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:theatre",
@@ -315,7 +280,6 @@
     ]
   },
   "viticul": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:viticul",
@@ -324,7 +288,6 @@
     ]
   },
   "outils": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:outils",
@@ -333,7 +296,6 @@
     ]
   },
   "nuances": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:nuances",
@@ -342,7 +304,6 @@
     ]
   },
   "point_rond": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:point_rond",
@@ -351,7 +312,6 @@
     ]
   },
   "sans": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:sans",
@@ -360,7 +320,6 @@
     ]
   },
   "corps": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:corps",
@@ -369,7 +328,6 @@
     ]
   },
   "jui_14": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:14_jui",
@@ -378,7 +336,6 @@
     ]
   },
   "leguerrier": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:leguerrier",
@@ -387,7 +344,6 @@
     ]
   },
   "residance": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:residance",
@@ -396,7 +352,6 @@
     ]
   },
   "renar": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:renar",
@@ -405,7 +360,6 @@
     ]
   },
   "sources": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:sources",
@@ -414,7 +368,6 @@
     ]
   },
   "romains": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:romains",
@@ -423,7 +376,6 @@
     ]
   },
   "feu": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:feu",
@@ -432,7 +384,6 @@
     ]
   },
   "janv_1": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:1_janv",
@@ -441,7 +392,6 @@
     ]
   },
   "restauration": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:restauration",
@@ -450,7 +400,6 @@
     ]
   },
   "marche": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:marche",
@@ -459,7 +408,6 @@
     ]
   },
   "theo": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:theo",
@@ -468,7 +416,6 @@
     ]
   },
   "roudin": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:roudin",
@@ -477,7 +424,6 @@
     ]
   },
   "centre_administratif": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:centre_administratif",
@@ -486,7 +432,6 @@
     ]
   },
   "chemin": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:chemin",
@@ -495,7 +440,6 @@
     ]
   },
   "delacour": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:delacour",
@@ -504,7 +448,6 @@
     ]
   },
   "mania": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:mania",
@@ -513,7 +456,6 @@
     ]
   },
   "mais": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:mais",
@@ -522,7 +464,6 @@
     ]
   },
   "ducarton": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:ducarton",
@@ -531,7 +472,6 @@
     ]
   },
   "tunes": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:tunes",
@@ -540,7 +480,6 @@
     ]
   },
   "hopital": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:hopital",
@@ -549,7 +488,6 @@
     ]
   },
   "lamcombre": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:lamcombre",
@@ -558,7 +496,6 @@
     ]
   },
   "lacanaile": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:lacanaile",
@@ -567,7 +504,6 @@
     ]
   },
   "ancienne_gare": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:ancienne_gare",
@@ -576,7 +512,6 @@
     ]
   },
   "clinique": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:clinique",
@@ -585,7 +520,6 @@
     ]
   },
   "appartement": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:appartement",
@@ -594,7 +528,6 @@
     ]
   },
   "aurelien": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:aurelien",
@@ -603,7 +536,6 @@
     ]
   },
   "use": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:use",
@@ -612,7 +544,6 @@
     ]
   },
   "surcote": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:surcote",
@@ -621,7 +552,6 @@
     ]
   },
   "pigment": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:pigment",
@@ -630,7 +560,6 @@
     ]
   },
   "potage": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:potage",
@@ -639,7 +568,6 @@
     ]
   },
   "duboulange": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:duboulange",
@@ -648,7 +576,6 @@
     ]
   },
   "ete": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:ete",
@@ -657,7 +584,6 @@
     ]
   },
   "magasins_usine": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:magasins_usinet",
@@ -666,7 +592,6 @@
     ]
   },
   "centre_commercial": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:centre_commercial",
@@ -675,7 +600,6 @@
     ]
   },
   "thelay": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:thelay",
@@ -684,7 +608,6 @@
     ]
   },
   "olmar": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:olmar",
@@ -693,7 +616,6 @@
     ]
   },
   "bourse": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:bourse",
@@ -702,7 +624,6 @@
     ]
   },
   "louis": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:louis",
@@ -711,7 +632,6 @@
     ]
   },
   "parvi": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:parvi",
@@ -720,7 +640,6 @@
     ]
   },
   "degant": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:degant",
@@ -729,7 +648,6 @@
     ]
   },
   "passage": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:passage",
@@ -738,7 +656,6 @@
     ]
   },
   "nagi": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:nagi",
@@ -747,7 +664,6 @@
     ]
   },
   "coeur": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:coeur",
@@ -756,7 +672,6 @@
     ]
   },
   "paix": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:paix",
@@ -765,7 +680,6 @@
     ]
   },
   "char": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:char",
@@ -774,7 +688,6 @@
     ]
   },
   "loge": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:loge",
@@ -783,7 +696,6 @@
     ]
   },
   "college_st_demain": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:college_st_demain",
@@ -792,7 +704,6 @@
     ]
   },
   "kiro": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:kiro",
@@ -801,7 +712,6 @@
     ]
   },
   "universite": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:universite",
@@ -810,7 +720,6 @@
     ]
   },
   "campus": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:campus",
@@ -819,7 +728,6 @@
     ]
   },
   "ecoles": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:ecoles",
@@ -828,7 +736,6 @@
     ]
   },
   "chants": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:chants",
@@ -837,7 +744,6 @@
     ]
   },
   "verti": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:verti",
@@ -846,7 +752,6 @@
     ]
   },
   "martre": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:martre",
@@ -855,7 +760,6 @@
     ]
   },
   "lithya": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:lithya",
@@ -864,7 +768,6 @@
     ]
   },
   "soleil": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:soleil",
@@ -873,7 +776,6 @@
     ]
   },
   "sous_cote": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:sous_cote",
@@ -882,7 +784,6 @@
     ]
   },
   "elemento": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:elemento",
@@ -891,7 +792,6 @@
     ]
   },
   "pont_de_laube": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:pont_de_laube",
@@ -900,7 +800,6 @@
     ]
   },
   "bulon": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:bulon",
@@ -909,7 +808,6 @@
     ]
   },
   "habitacle": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:habitacle",
@@ -918,7 +816,6 @@
     ]
   },
   "luen": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:luen",
@@ -927,7 +824,6 @@
     ]
   },
   "hakim": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:hakim",
@@ -936,7 +832,6 @@
     ]
   },
   "soufflerie": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:soufflerie",
@@ -945,7 +840,6 @@
     ]
   },
   "calamarde": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:calamarde",
@@ -954,7 +848,6 @@
     ]
   },
   "parc_logistique": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:parc_logistique",
@@ -963,7 +856,6 @@
     ]
   },
   "tails": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:tails",
@@ -972,7 +864,6 @@
     ]
   },
   "pont_de_lair": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:pont_de_lair",
@@ -981,7 +872,6 @@
     ]
   },
   "jardins_de_la_gare": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:jardins_de_la_gare",
@@ -990,7 +880,6 @@
     ]
   },
   "gare_centrale": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:gare_centrale",
@@ -999,7 +888,6 @@
     ]
   },
   "mairie": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:mairie",
@@ -1008,7 +896,6 @@
     ]
   },
   "rouloni": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:rouloni",
@@ -1017,7 +904,6 @@
     ]
   },
   "sep_1": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:1_sep",
@@ -1026,7 +912,6 @@
     ]
   },
   "parsolona": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:parsolona",
@@ -1035,7 +920,6 @@
     ]
   },
   "sabrina": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:sabrina",
@@ -1044,7 +928,6 @@
     ]
   },
   "pres_bulon": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:pres_bulon",
@@ -1053,7 +936,6 @@
     ]
   },
   "humbourgeur": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:humbourgeur",
@@ -1062,7 +944,6 @@
     ]
   },
   "nord": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:nord",
@@ -1071,7 +952,6 @@
     ]
   },
   "fiouse": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:fiouse",
@@ -1080,7 +960,6 @@
     ]
   },
   "oriental": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:oriental",
@@ -1089,7 +968,6 @@
     ]
   },
   "mont": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:mont",
@@ -1098,7 +976,6 @@
     ]
   },
   "champs_de_davi": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:champs_de_davi",
@@ -1107,7 +984,6 @@
     ]
   },
   "armageddon": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:armageddon",
@@ -1116,7 +992,6 @@
     ]
   },
   "tetedu": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:tetedu",
@@ -1125,7 +1000,6 @@
     ]
   },
   "maternel": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:maternel",
@@ -1134,7 +1008,6 @@
     ]
   },
   "demi-ciel": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:demi-ciel",
@@ -1143,7 +1016,6 @@
     ]
   },
   "porte_au_bois": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:porte_au_bois",
@@ -1152,7 +1024,6 @@
     ]
   },
   "champonais": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:champonais",
@@ -1161,7 +1032,6 @@
     ]
   },
   "masteur": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:masteur",
@@ -1170,7 +1040,6 @@
     ]
   },
   "floch": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:floch",
@@ -1179,7 +1048,6 @@
     ]
   },
   "lumiere": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:lumiere",
@@ -1188,7 +1056,6 @@
     ]
   },
   "cheminee": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:cheminee",
@@ -1197,7 +1064,6 @@
     ]
   },
   "starless": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:starless",
@@ -1206,7 +1072,6 @@
     ]
   },
   "trident": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:trident",
@@ -1215,7 +1080,6 @@
     ]
   },
   "banleta": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:banleta",
@@ -1224,7 +1088,6 @@
     ]
   },
   "an": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:an",
@@ -1233,7 +1096,6 @@
     ]
   },
   "samruto": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:samruto",
@@ -1242,7 +1104,6 @@
     ]
   },
   "dachan": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:dachan",
@@ -1251,7 +1112,6 @@
     ]
   },
   "crytaline": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:crytaline",
@@ -1260,7 +1120,6 @@
     ]
   },
   "kyou": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:kyou",
@@ -1269,7 +1128,6 @@
     ]
   },
   "ecolesnt": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:ecolesnt",
@@ -1278,7 +1136,6 @@
     ]
   },
   "residancent": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:residancent",
@@ -1287,7 +1144,6 @@
     ]
   },
   "pont_de_laubent": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:pont_de_laubent",
@@ -1296,7 +1152,6 @@
     ]
   },
   "magasins_usinent": {
-    "category": "neutral",
     "sounds": [
       {
         "name": "bussounds:magasins_usine",

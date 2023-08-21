@@ -4,23 +4,165 @@
  */
 package fr.blocblocthebloc.bussounds.init;
 
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.event.CreativeModeTabEvent;
+
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.network.chat.Component;
 
+@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class BussoundsModTabs {
-	public static CreativeModeTab TAB_SOUNDS;
-
-	public static void load() {
-		TAB_SOUNDS = new CreativeModeTab("tabsounds") {
-			@Override
-			public ItemStack makeIcon() {
-				return new ItemStack(BussoundsModBlocks.PLACE_CAMPAGNE.get());
-			}
-
-			@Override
-			public boolean hasSearchBar() {
-				return true;
-			}
-		}.setBackgroundSuffix("item_search.png");
+	@SubscribeEvent
+	public static void buildTabContentsModded(CreativeModeTabEvent.Register event) {
+		event.registerCreativeModeTab(new ResourceLocation("bussounds", "sounds"),
+				builder -> builder.title(Component.translatable("item_group.bussounds.sounds")).icon(() -> new ItemStack(BussoundsModBlocks.PLACE_CAMPAGNE.get())).displayItems((parameters, tabData) -> {
+					tabData.accept(BussoundsModBlocks.PLACE_CAMPAGNE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CHAMPS_DE_BLE.get().asItem());
+					tabData.accept(BussoundsModBlocks.SOGZIT.get().asItem());
+					tabData.accept(BussoundsModBlocks.PAIN.get().asItem());
+					tabData.accept(BussoundsModBlocks.FEB_21.get().asItem());
+					tabData.accept(BussoundsModBlocks.PARC_COMMUN.get().asItem());
+					tabData.accept(BussoundsModBlocks.ROUST.get().asItem());
+					tabData.accept(BussoundsModBlocks.POINT_BRONZE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CENTRE_VILLE.get().asItem());
+					tabData.accept(BussoundsModBlocks.GARE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CASTADREAM.get().asItem());
+					tabData.accept(BussoundsModBlocks.FEB_29.get().asItem());
+					tabData.accept(BussoundsModBlocks.LITIEUM.get().asItem());
+					tabData.accept(BussoundsModBlocks.FRANK.get().asItem());
+					tabData.accept(BussoundsModBlocks.ABBY.get().asItem());
+					tabData.accept(BussoundsModBlocks.DECOLOR.get().asItem());
+					tabData.accept(BussoundsModBlocks.ROLAND.get().asItem());
+					tabData.accept(BussoundsModBlocks.CENTRE_LOGISTIQUE.get().asItem());
+					tabData.accept(BussoundsModBlocks.ILE.get().asItem());
+					tabData.accept(BussoundsModBlocks.FEUWAR.get().asItem());
+					tabData.accept(BussoundsModBlocks.RAILS.get().asItem());
+					tabData.accept(BussoundsModBlocks.CIMETIERE.get().asItem());
+					tabData.accept(BussoundsModBlocks.RUE.get().asItem());
+					tabData.accept(BussoundsModBlocks.NOV_11.get().asItem());
+					tabData.accept(BussoundsModBlocks.CAMPAGNE.get().asItem());
+					tabData.accept(BussoundsModBlocks.FONTAINE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CHARMAUX.get().asItem());
+					tabData.accept(BussoundsModBlocks.PONTDEAU.get().asItem());
+					tabData.accept(BussoundsModBlocks.FLAURETE.get().asItem());
+					tabData.accept(BussoundsModBlocks.DURIAN.get().asItem());
+					tabData.accept(BussoundsModBlocks.TROUBADOUR.get().asItem());
+					tabData.accept(BussoundsModBlocks.ST_POULIN.get().asItem());
+					tabData.accept(BussoundsModBlocks.EDUICO.get().asItem());
+					tabData.accept(BussoundsModBlocks.MAIS_1.get().asItem());
+					tabData.accept(BussoundsModBlocks.THEATRE.get().asItem());
+					tabData.accept(BussoundsModBlocks.VITICUL.get().asItem());
+					tabData.accept(BussoundsModBlocks.OUTILS.get().asItem());
+					tabData.accept(BussoundsModBlocks.NUANCES.get().asItem());
+					tabData.accept(BussoundsModBlocks.POINT_ROND.get().asItem());
+					tabData.accept(BussoundsModBlocks.SANS.get().asItem());
+					tabData.accept(BussoundsModBlocks.CORPS.get().asItem());
+					tabData.accept(BussoundsModBlocks.JUI_14.get().asItem());
+					tabData.accept(BussoundsModBlocks.LEGUERRIER.get().asItem());
+					tabData.accept(BussoundsModBlocks.RESIDANCE.get().asItem());
+					tabData.accept(BussoundsModBlocks.RENAR.get().asItem());
+					tabData.accept(BussoundsModBlocks.SOURCES.get().asItem());
+					tabData.accept(BussoundsModBlocks.ROMAINS.get().asItem());
+					tabData.accept(BussoundsModBlocks.FEU_B.get().asItem());
+					tabData.accept(BussoundsModBlocks.JAN_1.get().asItem());
+					tabData.accept(BussoundsModBlocks.RESTAURATION.get().asItem());
+					tabData.accept(BussoundsModBlocks.MARCHE.get().asItem());
+					tabData.accept(BussoundsModBlocks.THEO.get().asItem());
+					tabData.accept(BussoundsModBlocks.ROUDIN.get().asItem());
+					tabData.accept(BussoundsModBlocks.CENTRE_ADMINISTRATIF.get().asItem());
+					tabData.accept(BussoundsModBlocks.CHEMIN.get().asItem());
+					tabData.accept(BussoundsModBlocks.DELACOUR.get().asItem());
+					tabData.accept(BussoundsModBlocks.MANIA.get().asItem());
+					tabData.accept(BussoundsModBlocks.MAIS.get().asItem());
+					tabData.accept(BussoundsModBlocks.DUCARTON.get().asItem());
+					tabData.accept(BussoundsModBlocks.TUNES.get().asItem());
+					tabData.accept(BussoundsModBlocks.HOPITAL.get().asItem());
+					tabData.accept(BussoundsModBlocks.LAMCOMBRE.get().asItem());
+					tabData.accept(BussoundsModBlocks.LACANAILE.get().asItem());
+					tabData.accept(BussoundsModBlocks.ANCIENNE_GARE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CLINIQUE.get().asItem());
+					tabData.accept(BussoundsModBlocks.APPARTEMENT.get().asItem());
+					tabData.accept(BussoundsModBlocks.AURELIEN.get().asItem());
+					tabData.accept(BussoundsModBlocks.USE.get().asItem());
+					tabData.accept(BussoundsModBlocks.SURCOTE.get().asItem());
+					tabData.accept(BussoundsModBlocks.PIGMENT.get().asItem());
+					tabData.accept(BussoundsModBlocks.POTAGE.get().asItem());
+					tabData.accept(BussoundsModBlocks.DUBOULANGE.get().asItem());
+					tabData.accept(BussoundsModBlocks.ETE.get().asItem());
+					tabData.accept(BussoundsModBlocks.MAGASINS_USINE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CENTRE_COMMERCIAL.get().asItem());
+					tabData.accept(BussoundsModBlocks.THELAY.get().asItem());
+					tabData.accept(BussoundsModBlocks.OLMAR.get().asItem());
+					tabData.accept(BussoundsModBlocks.BOURSE.get().asItem());
+					tabData.accept(BussoundsModBlocks.LOUIS.get().asItem());
+					tabData.accept(BussoundsModBlocks.PARVI.get().asItem());
+					tabData.accept(BussoundsModBlocks.DEGANT.get().asItem());
+					tabData.accept(BussoundsModBlocks.PASSAGE.get().asItem());
+					tabData.accept(BussoundsModBlocks.NAGI.get().asItem());
+					tabData.accept(BussoundsModBlocks.COEUR.get().asItem());
+					tabData.accept(BussoundsModBlocks.PAIX.get().asItem());
+					tabData.accept(BussoundsModBlocks.CHARB.get().asItem());
+					tabData.accept(BussoundsModBlocks.LOGE.get().asItem());
+					tabData.accept(BussoundsModBlocks.COLLEGE_ST_DEMAIN.get().asItem());
+					tabData.accept(BussoundsModBlocks.KIRO.get().asItem());
+					tabData.accept(BussoundsModBlocks.UNIVERSITE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CAMPUS.get().asItem());
+					tabData.accept(BussoundsModBlocks.ECOLES.get().asItem());
+					tabData.accept(BussoundsModBlocks.CHANTS.get().asItem());
+					tabData.accept(BussoundsModBlocks.VERTI.get().asItem());
+					tabData.accept(BussoundsModBlocks.MARTRE.get().asItem());
+					tabData.accept(BussoundsModBlocks.LITHYA.get().asItem());
+					tabData.accept(BussoundsModBlocks.SOLEIL.get().asItem());
+					tabData.accept(BussoundsModBlocks.SOUSCOTE.get().asItem());
+					tabData.accept(BussoundsModBlocks.ELEMENTO.get().asItem());
+					tabData.accept(BussoundsModBlocks.PONTDELAUBE.get().asItem());
+					tabData.accept(BussoundsModBlocks.BULON.get().asItem());
+					tabData.accept(BussoundsModBlocks.HABITACLE.get().asItem());
+					tabData.accept(BussoundsModBlocks.LUEN.get().asItem());
+					tabData.accept(BussoundsModBlocks.HAKIM.get().asItem());
+					tabData.accept(BussoundsModBlocks.SOUFFLERIE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CALAMARDE.get().asItem());
+					tabData.accept(BussoundsModBlocks.PARC_LOGISTIQUE.get().asItem());
+					tabData.accept(BussoundsModBlocks.TAILS.get().asItem());
+					tabData.accept(BussoundsModBlocks.PONTDELAIR.get().asItem());
+					tabData.accept(BussoundsModBlocks.JARDINSDELA_GARE.get().asItem());
+					tabData.accept(BussoundsModBlocks.GARE_CENTRALE.get().asItem());
+					tabData.accept(BussoundsModBlocks.MAIRIE.get().asItem());
+					tabData.accept(BussoundsModBlocks.ROULONI.get().asItem());
+					tabData.accept(BussoundsModBlocks.SEP_1.get().asItem());
+					tabData.accept(BussoundsModBlocks.PARSOLONA.get().asItem());
+					tabData.accept(BussoundsModBlocks.SABRINA.get().asItem());
+					tabData.accept(BussoundsModBlocks.PRES_BULON.get().asItem());
+					tabData.accept(BussoundsModBlocks.HUMBOURGEUR.get().asItem());
+					tabData.accept(BussoundsModBlocks.NORD.get().asItem());
+					tabData.accept(BussoundsModBlocks.FIOUSE.get().asItem());
+					tabData.accept(BussoundsModBlocks.ORIENTAL.get().asItem());
+					tabData.accept(BussoundsModBlocks.MONT.get().asItem());
+					tabData.accept(BussoundsModBlocks.CHAMPSDEDAVI.get().asItem());
+					tabData.accept(BussoundsModBlocks.ARMAGEDDON.get().asItem());
+					tabData.accept(BussoundsModBlocks.TETEDU.get().asItem());
+					tabData.accept(BussoundsModBlocks.MATERNEL.get().asItem());
+					tabData.accept(BussoundsModBlocks.DEMI_CIEL.get().asItem());
+					tabData.accept(BussoundsModBlocks.PORTEAUBOIS.get().asItem());
+					tabData.accept(BussoundsModBlocks.CHAMPONAIS.get().asItem());
+					tabData.accept(BussoundsModBlocks.MASTEUR.get().asItem());
+					tabData.accept(BussoundsModBlocks.FLOCH.get().asItem());
+					tabData.accept(BussoundsModBlocks.LUMIERE.get().asItem());
+					tabData.accept(BussoundsModBlocks.CHEMINEE.get().asItem());
+					tabData.accept(BussoundsModBlocks.STARLESS.get().asItem());
+					tabData.accept(BussoundsModBlocks.TRIDENT.get().asItem());
+					tabData.accept(BussoundsModBlocks.BANLETA.get().asItem());
+					tabData.accept(BussoundsModBlocks.AN.get().asItem());
+					tabData.accept(BussoundsModBlocks.SAMRUTO.get().asItem());
+					tabData.accept(BussoundsModBlocks.DACHAN.get().asItem());
+					tabData.accept(BussoundsModBlocks.CRYTALINE.get().asItem());
+					tabData.accept(BussoundsModBlocks.KYOU.get().asItem());
+					tabData.accept(BussoundsModBlocks.ECOLES_NT.get().asItem());
+					tabData.accept(BussoundsModBlocks.RESIDANCE_NT.get().asItem());
+					tabData.accept(BussoundsModBlocks.PONTDELAUBE_NT.get().asItem());
+					tabData.accept(BussoundsModBlocks.MAGASINS_USINE_NT.get().asItem());
+				}).withSearchBar());
 	}
 }

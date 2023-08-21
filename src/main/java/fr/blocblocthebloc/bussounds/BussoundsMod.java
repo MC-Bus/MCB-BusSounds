@@ -38,7 +38,6 @@ import java.util.Collection;
 import java.util.ArrayList;
 import java.util.AbstractMap;
 
-import fr.blocblocthebloc.bussounds.init.BussoundsModTabs;
 import fr.blocblocthebloc.bussounds.init.BussoundsModSounds;
 import fr.blocblocthebloc.bussounds.init.BussoundsModItems;
 import fr.blocblocthebloc.bussounds.init.BussoundsModBlocks;
@@ -50,7 +49,6 @@ public class BussoundsMod {
 
 	public BussoundsMod() {
 		MinecraftForge.EVENT_BUS.register(this);
-		BussoundsModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		BussoundsModSounds.REGISTRY.register(bus);
 		BussoundsModBlocks.REGISTRY.register(bus);
