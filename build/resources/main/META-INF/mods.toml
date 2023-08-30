@@ -1,10 +1,10 @@
 modLoader="javafml"
-loaderVersion="[45,)"
+loaderVersion="[47,)"
 license="Public Domain"
 
 [[mods]]
 modId="bussounds"
-version="1"
+version="1.1"
 displayName="BusSounds"
 credits="The sounds mod for Minecraft Bus Project !"
 displayURL="https://github.com/BlocBlocTheBloc0/MinecraftBus"
@@ -14,7 +14,7 @@ description="The sounds mod of the project"
 [[dependencies.bussounds]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19.4]"
+    versionRange="[1.20.1]"
     ordering="NONE"
     side="BOTH"
 

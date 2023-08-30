@@ -8294,8 +8294,8 @@
       "block.bussounds.luen": "Luen",
       "block.bussounds.outils": "Outils",
       "subtitles.parc_logistique": "",
-      "subtitles.floch": "",
       "block.bussounds.elemento": "Elemento",
+      "subtitles.floch": "",
       "subtitles.bulon": "",
       "block.bussounds.thelay": "Thelay",
       "block.bussounds.feuwar": "Feuwar",
@@ -8304,9 +8304,9 @@
       "block.bussounds.litieum": "Litieum",
       "block.bussounds.viticul": "Viticul",
       "subtitles.lamcombre": "",
-      "subtitles.oriental": "",
-      "subtitles.lithya": "",
       "subtitles.sogzit": "",
+      "subtitles.lithya": "",
+      "subtitles.oriental": "",
       "subtitles.point_rond": "",
       "subtitles.parc_commun": "",
       "subtitles.eduico": "",
@@ -8317,8 +8317,8 @@
       "subtitles.loge": "",
       "subtitles.magasins_usinent": "",
       "subtitles.corps": "",
-      "subtitles.champs_de_ble": "",
       "subtitles.centre_commercial": "",
+      "subtitles.champs_de_ble": "",
       "subtitles.chemin": "",
       "subtitles.roudin": "",
       "block.bussounds.loge": "Loge",
@@ -8593,7 +8593,7 @@
   "workspaceSettings": {
     "modid": "bussounds",
     "modName": "BusSounds",
-    "version": "1",
+    "version": "1.1",
     "description": "The sounds mod of the project",
     "author": "BlocBlocTheBloc",
     "websiteURL": "https://github.com/BlocBlocTheBloc0/MinecraftBus",
@@ -8606,10 +8606,10 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.19.4",
+    "currentGenerator": "forge-1.20.1",
     "credits": "The sounds mod for Minecraft Bus Project !",
     "modElementsPackage": "fr.blocblocthebloc.bussounds",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202300224119
+  "mcreatorVersion": 202300334614
 }
