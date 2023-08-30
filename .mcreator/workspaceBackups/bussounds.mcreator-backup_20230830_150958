@@ -4650,9 +4650,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/block/place_campagne.json",
-          "src/main/resources/assets/bussounds/blockstates/place_campagne.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/PlaceCampagneBlock.java",
-          "src/main/resources/assets/bussounds/models/item/place_campagne.json"
+          "src/main/resources/assets/bussounds/models/item/place_campagne.json",
+          "src/main/resources/assets/bussounds/blockstates/place_campagne.json"
         ]
       },
       "path": "~/Blocs"
@@ -4677,10 +4677,10 @@
       "registry_name": "champs_de_ble",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/ChampsDeBleBlock.java",
           "src/main/resources/assets/bussounds/models/item/champs_de_ble.json",
-          "src/main/resources/assets/bussounds/models/block/champs_de_ble.json",
-          "src/main/resources/assets/bussounds/blockstates/champs_de_ble.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ChampsDeBleBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/champs_de_ble.json",
+          "src/main/resources/assets/bussounds/models/block/champs_de_ble.json"
         ]
       },
       "path": "~/Blocs"
@@ -4695,9 +4695,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/item/sogzit.json",
-          "src/main/resources/assets/bussounds/models/block/sogzit.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/SogzitBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/sogzit.json"
+          "src/main/resources/assets/bussounds/blockstates/sogzit.json",
+          "src/main/resources/assets/bussounds/models/block/sogzit.json"
         ]
       },
       "path": "~/Blocs"
@@ -4711,10 +4711,10 @@
       "registry_name": "pain",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/pain.json",
-          "src/main/resources/assets/bussounds/blockstates/pain.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PainBlock.java",
           "src/main/resources/assets/bussounds/models/item/pain.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/PainBlock.java"
+          "src/main/resources/assets/bussounds/blockstates/pain.json",
+          "src/main/resources/assets/bussounds/models/block/pain.json"
         ]
       },
       "path": "~/Blocs"
@@ -4729,9 +4729,9 @@
       "metadata": {
         "files": [
           "src/main/java/fr/blocblocthebloc/bussounds/block/Feb21Block.java",
-          "src/main/resources/assets/bussounds/models/block/feb_21.json",
           "src/main/resources/assets/bussounds/models/item/feb_21.json",
-          "src/main/resources/assets/bussounds/blockstates/feb_21.json"
+          "src/main/resources/assets/bussounds/blockstates/feb_21.json",
+          "src/main/resources/assets/bussounds/models/block/feb_21.json"
         ]
       },
       "path": "~/Blocs"
@@ -4745,8 +4745,8 @@
       "registry_name": "parc_commun",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/parc_commun.json",
           "src/main/resources/assets/bussounds/blockstates/parc_commun.json",
+          "src/main/resources/assets/bussounds/models/item/parc_commun.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/ParcCommunBlock.java",
           "src/main/resources/assets/bussounds/models/block/parc_commun.json"
         ]
@@ -4763,9 +4763,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/blockstates/roust.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/RoustBlock.java",
           "src/main/resources/assets/bussounds/models/block/roust.json",
-          "src/main/resources/assets/bussounds/models/item/roust.json"
+          "src/main/resources/assets/bussounds/models/item/roust.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/RoustBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -4780,8 +4780,8 @@
       "metadata": {
         "files": [
           "src/main/java/fr/blocblocthebloc/bussounds/block/PointBronzeBlock.java",
-          "src/main/resources/assets/bussounds/models/item/point_bronze.json",
           "src/main/resources/assets/bussounds/blockstates/point_bronze.json",
+          "src/main/resources/assets/bussounds/models/item/point_bronze.json",
           "src/main/resources/assets/bussounds/models/block/point_bronze.json"
         ]
       },
@@ -4797,9 +4797,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/item/centre_ville.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/CentreVilleBlock.java",
           "src/main/resources/assets/bussounds/blockstates/centre_ville.json",
-          "src/main/resources/assets/bussounds/models/block/centre_ville.json"
+          "src/main/resources/assets/bussounds/models/block/centre_ville.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CentreVilleBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -4814,9 +4814,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/block/gare.json",
-          "src/main/resources/assets/bussounds/models/item/gare.json",
           "src/main/resources/assets/bussounds/blockstates/gare.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/GareBlock.java"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/GareBlock.java",
+          "src/main/resources/assets/bussounds/models/item/gare.json"
         ]
       },
       "path": "~/Blocs"
@@ -4830,10 +4830,10 @@
       "registry_name": "castadream",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/castadream.json",
+          "src/main/resources/assets/bussounds/models/block/castadream.json",
           "src/main/resources/assets/bussounds/models/item/castadream.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/CastadreamBlock.java",
-          "src/main/resources/assets/bussounds/models/block/castadream.json"
+          "src/main/resources/assets/bussounds/blockstates/castadream.json"
         ]
       },
       "path": "~/Blocs"
@@ -4847,10 +4847,10 @@
       "registry_name": "feb_29",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/feb_29.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/Feb29Block.java",
-          "src/main/resources/assets/bussounds/models/block/feb_29.json",
-          "src/main/resources/assets/bussounds/blockstates/feb_29.json"
+          "src/main/resources/assets/bussounds/models/item/feb_29.json",
+          "src/main/resources/assets/bussounds/blockstates/feb_29.json",
+          "src/main/resources/assets/bussounds/models/block/feb_29.json"
         ]
       },
       "path": "~/Blocs"
@@ -4864,10 +4864,10 @@
       "registry_name": "litieum",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/litieum.json",
-          "src/main/resources/assets/bussounds/models/block/litieum.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/LitieumBlock.java",
-          "src/main/resources/assets/bussounds/models/item/litieum.json"
+          "src/main/resources/assets/bussounds/blockstates/litieum.json",
+          "src/main/resources/assets/bussounds/models/item/litieum.json",
+          "src/main/resources/assets/bussounds/models/block/litieum.json"
         ]
       },
       "path": "~/Blocs"
@@ -4882,9 +4882,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/block/frank.json",
-          "src/main/resources/assets/bussounds/models/item/frank.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/FrankBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/frank.json"
+          "src/main/resources/assets/bussounds/blockstates/frank.json",
+          "src/main/resources/assets/bussounds/models/item/frank.json"
         ]
       },
       "path": "~/Blocs"
@@ -4898,10 +4898,10 @@
       "registry_name": "abby",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/abby.json",
-          "src/main/resources/assets/bussounds/blockstates/abby.json",
           "src/main/resources/assets/bussounds/models/block/abby.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/AbbyBlock.java"
+          "src/main/resources/assets/bussounds/models/item/abby.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/AbbyBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/abby.json"
         ]
       },
       "path": "~/Blocs"
@@ -4915,10 +4915,10 @@
       "registry_name": "decolor",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/DecolorBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/decolor.json",
           "src/main/resources/assets/bussounds/models/block/decolor.json",
-          "src/main/resources/assets/bussounds/models/item/decolor.json"
+          "src/main/resources/assets/bussounds/models/item/decolor.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/DecolorBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/decolor.json"
         ]
       },
       "path": "~/Blocs"
@@ -4932,10 +4932,10 @@
       "registry_name": "roland",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/roland.json",
-          "src/main/resources/assets/bussounds/blockstates/roland.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/RolandBlock.java",
-          "src/main/resources/assets/bussounds/models/block/roland.json"
+          "src/main/resources/assets/bussounds/blockstates/roland.json",
+          "src/main/resources/assets/bussounds/models/block/roland.json",
+          "src/main/resources/assets/bussounds/models/item/roland.json"
         ]
       },
       "path": "~/Blocs"
@@ -4966,8 +4966,8 @@
       "registry_name": "ile",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/IleBlock.java",
           "src/main/resources/assets/bussounds/models/block/ile.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/IleBlock.java",
           "src/main/resources/assets/bussounds/blockstates/ile.json",
           "src/main/resources/assets/bussounds/models/item/ile.json"
         ]
@@ -4983,10 +4983,10 @@
       "registry_name": "feuwar",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/feuwar.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/FeuwarBlock.java",
           "src/main/resources/assets/bussounds/models/block/feuwar.json",
-          "src/main/resources/assets/bussounds/models/item/feuwar.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/FeuwarBlock.java",
+          "src/main/resources/assets/bussounds/models/item/feuwar.json",
+          "src/main/resources/assets/bussounds/blockstates/feuwar.json"
         ]
       },
       "path": "~/Blocs"
@@ -5000,9 +5000,9 @@
       "registry_name": "rails",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/RailsBlock.java",
           "src/main/resources/assets/bussounds/blockstates/rails.json",
           "src/main/resources/assets/bussounds/models/block/rails.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/RailsBlock.java",
           "src/main/resources/assets/bussounds/models/item/rails.json"
         ]
       },
@@ -5017,10 +5017,10 @@
       "registry_name": "cimetiere",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/cimetiere.json",
           "src/main/resources/assets/bussounds/models/block/cimetiere.json",
-          "src/main/resources/assets/bussounds/blockstates/cimetiere.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/CimetiereBlock.java"
+          "src/main/resources/assets/bussounds/models/item/cimetiere.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CimetiereBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/cimetiere.json"
         ]
       },
       "path": "~/Blocs"
@@ -5035,9 +5035,9 @@
       "metadata": {
         "files": [
           "src/main/java/fr/blocblocthebloc/bussounds/block/RueBlock.java",
-          "src/main/resources/assets/bussounds/models/block/rue.json",
+          "src/main/resources/assets/bussounds/blockstates/rue.json",
           "src/main/resources/assets/bussounds/models/item/rue.json",
-          "src/main/resources/assets/bussounds/blockstates/rue.json"
+          "src/main/resources/assets/bussounds/models/block/rue.json"
         ]
       },
       "path": "~/Blocs"
@@ -5052,9 +5052,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/blockstates/nov_11.json",
+          "src/main/resources/assets/bussounds/models/block/nov_11.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/Nov11Block.java",
-          "src/main/resources/assets/bussounds/models/item/nov_11.json",
-          "src/main/resources/assets/bussounds/models/block/nov_11.json"
+          "src/main/resources/assets/bussounds/models/item/nov_11.json"
         ]
       },
       "path": "~/Blocs"
@@ -5068,10 +5068,10 @@
       "registry_name": "campagne",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/blockstates/campagne.json",
           "src/main/resources/assets/bussounds/models/item/campagne.json",
           "src/main/resources/assets/bussounds/models/block/campagne.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/CampagneBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/campagne.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CampagneBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5085,9 +5085,9 @@
       "registry_name": "fontaine",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/fontaine.json",
-          "src/main/resources/assets/bussounds/models/item/fontaine.json",
           "src/main/resources/assets/bussounds/blockstates/fontaine.json",
+          "src/main/resources/assets/bussounds/models/item/fontaine.json",
+          "src/main/resources/assets/bussounds/models/block/fontaine.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/FontaineBlock.java"
         ]
       },
@@ -5102,9 +5102,9 @@
       "registry_name": "charmaux",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/blockstates/charmaux.json",
           "src/main/resources/assets/bussounds/models/block/charmaux.json",
           "src/main/resources/assets/bussounds/models/item/charmaux.json",
-          "src/main/resources/assets/bussounds/blockstates/charmaux.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/CharmauxBlock.java"
         ]
       },
@@ -5119,10 +5119,10 @@
       "registry_name": "pontdeau",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/pontdeau.json",
-          "src/main/resources/assets/bussounds/models/item/pontdeau.json",
+          "src/main/resources/assets/bussounds/blockstates/pontdeau.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/PontdeauBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/pontdeau.json"
+          "src/main/resources/assets/bussounds/models/item/pontdeau.json",
+          "src/main/resources/assets/bussounds/models/block/pontdeau.json"
         ]
       },
       "path": "~/Blocs"
@@ -5136,10 +5136,10 @@
       "registry_name": "flaurete",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/flaurete.json",
+          "src/main/resources/assets/bussounds/blockstates/flaurete.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/FlaureteBlock.java",
-          "src/main/resources/assets/bussounds/models/block/flaurete.json",
-          "src/main/resources/assets/bussounds/blockstates/flaurete.json"
+          "src/main/resources/assets/bussounds/models/item/flaurete.json",
+          "src/main/resources/assets/bussounds/models/block/flaurete.json"
         ]
       },
       "path": "~/Blocs"
@@ -5153,10 +5153,10 @@
       "registry_name": "durian",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/models/block/durian.json",
           "src/main/resources/assets/bussounds/blockstates/durian.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/DurianBlock.java",
           "src/main/resources/assets/bussounds/models/item/durian.json",
-          "src/main/resources/assets/bussounds/models/block/durian.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/DurianBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5170,10 +5170,10 @@
       "registry_name": "troubadour",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/troubadour.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/TroubadourBlock.java",
           "src/main/resources/assets/bussounds/models/item/troubadour.json",
-          "src/main/resources/assets/bussounds/blockstates/troubadour.json"
+          "src/main/resources/assets/bussounds/blockstates/troubadour.json",
+          "src/main/resources/assets/bussounds/models/block/troubadour.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/TroubadourBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5187,9 +5187,9 @@
       "registry_name": "st_poulin",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/st_poulin.json",
           "src/main/resources/assets/bussounds/models/block/st_poulin.json",
           "src/main/resources/assets/bussounds/blockstates/st_poulin.json",
+          "src/main/resources/assets/bussounds/models/item/st_poulin.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/StPoulinBlock.java"
         ]
       },
@@ -5204,8 +5204,8 @@
       "registry_name": "eduico",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/eduico.json",
           "src/main/resources/assets/bussounds/models/block/eduico.json",
+          "src/main/resources/assets/bussounds/blockstates/eduico.json",
           "src/main/resources/assets/bussounds/models/item/eduico.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/EduicoBlock.java"
         ]
@@ -5221,10 +5221,10 @@
       "registry_name": "mais_1",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/mais_1.json",
-          "src/main/resources/assets/bussounds/blockstates/mais_1.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/Mais1Block.java",
-          "src/main/resources/assets/bussounds/models/block/mais_1.json"
+          "src/main/resources/assets/bussounds/blockstates/mais_1.json",
+          "src/main/resources/assets/bussounds/models/block/mais_1.json",
+          "src/main/resources/assets/bussounds/models/item/mais_1.json"
         ]
       },
       "path": "~/Blocs"
@@ -5238,10 +5238,10 @@
       "registry_name": "theatre",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/theatre.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/TheatreBlock.java",
           "src/main/resources/assets/bussounds/models/block/theatre.json",
-          "src/main/resources/assets/bussounds/blockstates/theatre.json"
+          "src/main/resources/assets/bussounds/blockstates/theatre.json",
+          "src/main/resources/assets/bussounds/models/item/theatre.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/TheatreBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5255,9 +5255,9 @@
       "registry_name": "viticul",
       "metadata": {
         "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ViticulBlock.java",
           "src/main/resources/assets/bussounds/models/item/viticul.json",
           "src/main/resources/assets/bussounds/blockstates/viticul.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/ViticulBlock.java",
           "src/main/resources/assets/bussounds/models/block/viticul.json"
         ]
       },
@@ -5272,10 +5272,10 @@
       "registry_name": "outils",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/outils.json",
-          "src/main/resources/assets/bussounds/models/block/outils.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/OutilsBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/outils.json"
+          "src/main/resources/assets/bussounds/models/item/outils.json",
+          "src/main/resources/assets/bussounds/blockstates/outils.json",
+          "src/main/resources/assets/bussounds/models/block/outils.json"
         ]
       },
       "path": "~/Blocs"
@@ -5289,10 +5289,10 @@
       "registry_name": "nuances",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/NuancesBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/nuances.json",
           "src/main/resources/assets/bussounds/models/item/nuances.json",
-          "src/main/resources/assets/bussounds/models/block/nuances.json",
-          "src/main/resources/assets/bussounds/blockstates/nuances.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/NuancesBlock.java",
+          "src/main/resources/assets/bussounds/models/block/nuances.json"
         ]
       },
       "path": "~/Blocs"
@@ -5306,10 +5306,10 @@
       "registry_name": "point_rond",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/point_rond.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/PointRondBlock.java",
           "src/main/resources/assets/bussounds/blockstates/point_rond.json",
-          "src/main/resources/assets/bussounds/models/item/point_rond.json"
+          "src/main/resources/assets/bussounds/models/item/point_rond.json",
+          "src/main/resources/assets/bussounds/models/block/point_rond.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PointRondBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5323,10 +5323,10 @@
       "registry_name": "sans",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/sans.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/SansBlock.java",
+          "src/main/resources/assets/bussounds/models/item/sans.json",
           "src/main/resources/assets/bussounds/models/block/sans.json",
-          "src/main/resources/assets/bussounds/models/item/sans.json"
+          "src/main/resources/assets/bussounds/blockstates/sans.json"
         ]
       },
       "path": "~/Blocs"
@@ -5357,10 +5357,10 @@
       "registry_name": "jui_14",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/Jui14Block.java",
-          "src/main/resources/assets/bussounds/blockstates/jui_14.json",
           "src/main/resources/assets/bussounds/models/block/jui_14.json",
-          "src/main/resources/assets/bussounds/models/item/jui_14.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/Jui14Block.java",
+          "src/main/resources/assets/bussounds/models/item/jui_14.json",
+          "src/main/resources/assets/bussounds/blockstates/jui_14.json"
         ]
       },
       "path": "~/Blocs"
@@ -5374,8 +5374,8 @@
       "registry_name": "leguerrier",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/LeguerrierBlock.java",
           "src/main/resources/assets/bussounds/models/item/leguerrier.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/LeguerrierBlock.java",
           "src/main/resources/assets/bussounds/blockstates/leguerrier.json",
           "src/main/resources/assets/bussounds/models/block/leguerrier.json"
         ]
@@ -5391,10 +5391,10 @@
       "registry_name": "residance",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/residance.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ResidanceBlock.java",
           "src/main/resources/assets/bussounds/models/item/residance.json",
           "src/main/resources/assets/bussounds/blockstates/residance.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/ResidanceBlock.java"
+          "src/main/resources/assets/bussounds/models/block/residance.json"
         ]
       },
       "path": "~/Blocs"
@@ -5408,10 +5408,10 @@
       "registry_name": "renar",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/renar.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/RenarBlock.java",
           "src/main/resources/assets/bussounds/models/item/renar.json",
-          "src/main/resources/assets/bussounds/blockstates/renar.json"
+          "src/main/resources/assets/bussounds/blockstates/renar.json",
+          "src/main/resources/assets/bussounds/models/block/renar.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/RenarBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5425,10 +5425,10 @@
       "registry_name": "sources",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/sources.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/SourcesBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/sources.json",
-          "src/main/resources/assets/bussounds/models/block/sources.json"
+          "src/main/resources/assets/bussounds/models/item/sources.json",
+          "src/main/resources/assets/bussounds/models/block/sources.json",
+          "src/main/resources/assets/bussounds/blockstates/sources.json"
         ]
       },
       "path": "~/Blocs"
@@ -5442,9 +5442,9 @@
       "registry_name": "romains",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/romains.json",
-          "src/main/resources/assets/bussounds/blockstates/romains.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/RomainsBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/romains.json",
+          "src/main/resources/assets/bussounds/models/item/romains.json",
           "src/main/resources/assets/bussounds/models/block/romains.json"
         ]
       },
@@ -5459,8 +5459,8 @@
       "registry_name": "feu_b",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/feu_b.json",
           "src/main/resources/assets/bussounds/blockstates/feu_b.json",
+          "src/main/resources/assets/bussounds/models/block/feu_b.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/FeuBBlock.java",
           "src/main/resources/assets/bussounds/models/item/feu_b.json"
         ]
@@ -5477,9 +5477,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/blockstates/jan_1.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/Jan1Block.java",
+          "src/main/resources/assets/bussounds/models/block/jan_1.json",
           "src/main/resources/assets/bussounds/models/item/jan_1.json",
-          "src/main/resources/assets/bussounds/models/block/jan_1.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/Jan1Block.java"
         ]
       },
       "path": "~/Blocs"
@@ -5493,9 +5493,9 @@
       "registry_name": "restauration",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/restauration.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/RestaurationBlock.java",
           "src/main/resources/assets/bussounds/models/item/restauration.json",
+          "src/main/resources/assets/bussounds/blockstates/restauration.json",
           "src/main/resources/assets/bussounds/models/block/restauration.json"
         ]
       },
@@ -5510,10 +5510,10 @@
       "registry_name": "marche",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/marche.json",
-          "src/main/resources/assets/bussounds/models/block/marche.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/MarcheBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/marche.json"
+          "src/main/resources/assets/bussounds/models/item/marche.json",
+          "src/main/resources/assets/bussounds/blockstates/marche.json",
+          "src/main/resources/assets/bussounds/models/block/marche.json"
         ]
       },
       "path": "~/Blocs"
@@ -5527,10 +5527,10 @@
       "registry_name": "theo",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/theo.json",
-          "src/main/resources/assets/bussounds/models/item/theo.json",
           "src/main/resources/assets/bussounds/blockstates/theo.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/TheoBlock.java"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/TheoBlock.java",
+          "src/main/resources/assets/bussounds/models/block/theo.json",
+          "src/main/resources/assets/bussounds/models/item/theo.json"
         ]
       },
       "path": "~/Blocs"
@@ -5544,10 +5544,10 @@
       "registry_name": "roudin",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/roudin.json",
           "src/main/resources/assets/bussounds/models/block/roudin.json",
-          "src/main/resources/assets/bussounds/models/item/roudin.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/RoudinBlock.java"
+          "src/main/resources/assets/bussounds/blockstates/roudin.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/RoudinBlock.java",
+          "src/main/resources/assets/bussounds/models/item/roudin.json"
         ]
       },
       "path": "~/Blocs"
@@ -5563,8 +5563,8 @@
         "files": [
           "src/main/resources/assets/bussounds/blockstates/centre_administratif.json",
           "src/main/resources/assets/bussounds/models/item/centre_administratif.json",
-          "src/main/resources/assets/bussounds/models/block/centre_administratif.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/CentreAdministratifBlock.java"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CentreAdministratifBlock.java",
+          "src/main/resources/assets/bussounds/models/block/centre_administratif.json"
         ]
       },
       "path": "~/Blocs"
@@ -5578,10 +5578,10 @@
       "registry_name": "chemin",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/blockstates/chemin.json",
           "src/main/resources/assets/bussounds/models/block/chemin.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/CheminBlock.java",
-          "src/main/resources/assets/bussounds/models/item/chemin.json",
-          "src/main/resources/assets/bussounds/blockstates/chemin.json"
+          "src/main/resources/assets/bussounds/models/item/chemin.json"
         ]
       },
       "path": "~/Blocs"
@@ -5595,10 +5595,10 @@
       "registry_name": "delacour",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/delacour.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/DelacourBlock.java",
+          "src/main/resources/assets/bussounds/models/item/delacour.json",
           "src/main/resources/assets/bussounds/models/block/delacour.json",
-          "src/main/resources/assets/bussounds/models/item/delacour.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/DelacourBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/delacour.json"
         ]
       },
       "path": "~/Blocs"
@@ -5613,9 +5613,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/item/mania.json",
-          "src/main/resources/assets/bussounds/models/block/mania.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ManiaBlock.java",
           "src/main/resources/assets/bussounds/blockstates/mania.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/ManiaBlock.java"
+          "src/main/resources/assets/bussounds/models/block/mania.json"
         ]
       },
       "path": "~/Blocs"
@@ -5630,9 +5630,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/item/mais.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/MaisBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/mais.json",
           "src/main/resources/assets/bussounds/models/block/mais.json",
-          "src/main/resources/assets/bussounds/blockstates/mais.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/MaisBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5646,10 +5646,10 @@
       "registry_name": "ducarton",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/DucartonBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/ducarton.json",
+          "src/main/resources/assets/bussounds/models/item/ducarton.json",
           "src/main/resources/assets/bussounds/models/block/ducarton.json",
-          "src/main/resources/assets/bussounds/models/item/ducarton.json"
+          "src/main/resources/assets/bussounds/blockstates/ducarton.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/DucartonBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5664,9 +5664,9 @@
       "metadata": {
         "files": [
           "src/main/java/fr/blocblocthebloc/bussounds/block/TunesBlock.java",
-          "src/main/resources/assets/bussounds/models/block/tunes.json",
           "src/main/resources/assets/bussounds/models/item/tunes.json",
-          "src/main/resources/assets/bussounds/blockstates/tunes.json"
+          "src/main/resources/assets/bussounds/blockstates/tunes.json",
+          "src/main/resources/assets/bussounds/models/block/tunes.json"
         ]
       },
       "path": "~/Blocs"
@@ -5680,10 +5680,10 @@
       "registry_name": "hopital",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/hopital.json",
-          "src/main/resources/assets/bussounds/models/block/hopital.json",
           "src/main/resources/assets/bussounds/models/item/hopital.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/HopitalBlock.java"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/HopitalBlock.java",
+          "src/main/resources/assets/bussounds/models/block/hopital.json",
+          "src/main/resources/assets/bussounds/blockstates/hopital.json"
         ]
       },
       "path": "~/Blocs"
@@ -5697,10 +5697,10 @@
       "registry_name": "lamcombre",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/lamcombre.json",
-          "src/main/resources/assets/bussounds/models/item/lamcombre.json",
           "src/main/resources/assets/bussounds/models/block/lamcombre.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/LamcombreBlock.java"
+          "src/main/resources/assets/bussounds/models/item/lamcombre.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/LamcombreBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/lamcombre.json"
         ]
       },
       "path": "~/Blocs"
@@ -5714,10 +5714,10 @@
       "registry_name": "lacanaile",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/lacanaile.json",
           "src/main/resources/assets/bussounds/models/item/lacanaile.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/LacanaileBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/lacanaile.json"
+          "src/main/resources/assets/bussounds/blockstates/lacanaile.json",
+          "src/main/resources/assets/bussounds/models/block/lacanaile.json"
         ]
       },
       "path": "~/Blocs"
@@ -5733,8 +5733,8 @@
         "files": [
           "src/main/java/fr/blocblocthebloc/bussounds/block/AncienneGareBlock.java",
           "src/main/resources/assets/bussounds/blockstates/ancienne_gare.json",
-          "src/main/resources/assets/bussounds/models/item/ancienne_gare.json",
-          "src/main/resources/assets/bussounds/models/block/ancienne_gare.json"
+          "src/main/resources/assets/bussounds/models/block/ancienne_gare.json",
+          "src/main/resources/assets/bussounds/models/item/ancienne_gare.json"
         ]
       },
       "path": "~/Blocs"
@@ -5748,10 +5748,10 @@
       "registry_name": "clinique",
       "metadata": {
         "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CliniqueBlock.java",
           "src/main/resources/assets/bussounds/blockstates/clinique.json",
-          "src/main/resources/assets/bussounds/models/block/clinique.json",
           "src/main/resources/assets/bussounds/models/item/clinique.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/CliniqueBlock.java"
+          "src/main/resources/assets/bussounds/models/block/clinique.json"
         ]
       },
       "path": "~/Blocs"
@@ -5765,10 +5765,10 @@
       "registry_name": "appartement",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/appartement.json",
-          "src/main/resources/assets/bussounds/models/block/appartement.json",
+          "src/main/resources/assets/bussounds/models/item/appartement.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/AppartementBlock.java",
-          "src/main/resources/assets/bussounds/models/item/appartement.json"
+          "src/main/resources/assets/bussounds/models/block/appartement.json",
+          "src/main/resources/assets/bussounds/blockstates/appartement.json"
         ]
       },
       "path": "~/Blocs"
@@ -5782,10 +5782,10 @@
       "registry_name": "aurelien",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/aurelien.json",
-          "src/main/resources/assets/bussounds/models/block/aurelien.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/AurelienBlock.java",
           "src/main/resources/assets/bussounds/blockstates/aurelien.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/AurelienBlock.java"
+          "src/main/resources/assets/bussounds/models/item/aurelien.json",
+          "src/main/resources/assets/bussounds/models/block/aurelien.json"
         ]
       },
       "path": "~/Blocs"
@@ -5799,9 +5799,9 @@
       "registry_name": "use",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/use.json",
-          "src/main/resources/assets/bussounds/models/block/use.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/UseBlock.java",
+          "src/main/resources/assets/bussounds/models/block/use.json",
+          "src/main/resources/assets/bussounds/models/item/use.json",
           "src/main/resources/assets/bussounds/blockstates/use.json"
         ]
       },
@@ -5816,10 +5816,10 @@
       "registry_name": "surcote",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/surcote.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/SurcoteBlock.java",
-          "src/main/resources/assets/bussounds/models/block/surcote.json",
-          "src/main/resources/assets/bussounds/blockstates/surcote.json"
+          "src/main/resources/assets/bussounds/models/item/surcote.json",
+          "src/main/resources/assets/bussounds/blockstates/surcote.json",
+          "src/main/resources/assets/bussounds/models/block/surcote.json"
         ]
       },
       "path": "~/Blocs"
@@ -5833,9 +5833,9 @@
       "registry_name": "pigment",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/pigment.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/PigmentBlock.java",
           "src/main/resources/assets/bussounds/blockstates/pigment.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PigmentBlock.java",
+          "src/main/resources/assets/bussounds/models/item/pigment.json",
           "src/main/resources/assets/bussounds/models/block/pigment.json"
         ]
       },
@@ -5851,9 +5851,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/blockstates/potage.json",
+          "src/main/resources/assets/bussounds/models/block/potage.json",
           "src/main/resources/assets/bussounds/models/item/potage.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/PotageBlock.java",
-          "src/main/resources/assets/bussounds/models/block/potage.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PotageBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -5868,9 +5868,9 @@
       "metadata": {
         "files": [
           "src/main/java/fr/blocblocthebloc/bussounds/block/DuboulangeBlock.java",
+          "src/main/resources/assets/bussounds/models/item/duboulange.json",
           "src/main/resources/assets/bussounds/models/block/duboulange.json",
-          "src/main/resources/assets/bussounds/blockstates/duboulange.json",
-          "src/main/resources/assets/bussounds/models/item/duboulange.json"
+          "src/main/resources/assets/bussounds/blockstates/duboulange.json"
         ]
       },
       "path": "~/Blocs"
@@ -5884,9 +5884,9 @@
       "registry_name": "ete",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/ete.json",
           "src/main/resources/assets/bussounds/models/item/ete.json",
           "src/main/resources/assets/bussounds/models/block/ete.json",
+          "src/main/resources/assets/bussounds/blockstates/ete.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/EteBlock.java"
         ]
       },
@@ -5901,9 +5901,9 @@
       "registry_name": "magasins_usine",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/magasins_usine.json",
           "src/main/resources/assets/bussounds/models/item/magasins_usine.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/MagasinsUsineBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/magasins_usine.json",
           "src/main/resources/assets/bussounds/models/block/magasins_usine.json"
         ]
       },
@@ -5918,10 +5918,10 @@
       "registry_name": "centre_commercial",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/centre_commercial.json",
-          "src/main/resources/assets/bussounds/blockstates/centre_commercial.json",
           "src/main/resources/assets/bussounds/models/block/centre_commercial.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/CentreCommercialBlock.java"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CentreCommercialBlock.java",
+          "src/main/resources/assets/bussounds/models/item/centre_commercial.json",
+          "src/main/resources/assets/bussounds/blockstates/centre_commercial.json"
         ]
       },
       "path": "~/Blocs"
@@ -5935,10 +5935,10 @@
       "registry_name": "thelay",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/models/block/thelay.json",
           "src/main/resources/assets/bussounds/blockstates/thelay.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/ThelayBlock.java",
-          "src/main/resources/assets/bussounds/models/item/thelay.json",
-          "src/main/resources/assets/bussounds/models/block/thelay.json"
+          "src/main/resources/assets/bussounds/models/item/thelay.json"
         ]
       },
       "path": "~/Blocs"
@@ -5952,9 +5952,9 @@
       "registry_name": "olmar",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/OlmarBlock.java",
           "src/main/resources/assets/bussounds/blockstates/olmar.json",
           "src/main/resources/assets/bussounds/models/block/olmar.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/OlmarBlock.java",
           "src/main/resources/assets/bussounds/models/item/olmar.json"
         ]
       },
@@ -5986,9 +5986,9 @@
       "registry_name": "louis",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/LouisBlock.java",
           "src/main/resources/assets/bussounds/models/item/louis.json",
           "src/main/resources/assets/bussounds/models/block/louis.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/LouisBlock.java",
           "src/main/resources/assets/bussounds/blockstates/louis.json"
         ]
       },
@@ -6003,9 +6003,9 @@
       "registry_name": "parvi",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/blockstates/parvi.json",
           "src/main/resources/assets/bussounds/models/block/parvi.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/ParviBlock.java",
-          "src/main/resources/assets/bussounds/blockstates/parvi.json",
           "src/main/resources/assets/bussounds/models/item/parvi.json"
         ]
       },
@@ -6020,10 +6020,10 @@
       "registry_name": "degant",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/degant.json",
-          "src/main/resources/assets/bussounds/models/item/degant.json",
           "src/main/resources/assets/bussounds/blockstates/degant.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/DegantBlock.java"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/DegantBlock.java",
+          "src/main/resources/assets/bussounds/models/block/degant.json",
+          "src/main/resources/assets/bussounds/models/item/degant.json"
         ]
       },
       "path": "~/Blocs"
@@ -6037,10 +6037,10 @@
       "registry_name": "passage",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/models/item/passage.json",
           "src/main/resources/assets/bussounds/models/block/passage.json",
-          "src/main/resources/assets/bussounds/blockstates/passage.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/PassageBlock.java",
-          "src/main/resources/assets/bussounds/models/item/passage.json"
+          "src/main/resources/assets/bussounds/blockstates/passage.json"
         ]
       },
       "path": "~/Blocs"
@@ -6056,8 +6056,8 @@
         "files": [
           "src/main/java/fr/blocblocthebloc/bussounds/block/NagiBlock.java",
           "src/main/resources/assets/bussounds/models/item/nagi.json",
-          "src/main/resources/assets/bussounds/models/block/nagi.json",
-          "src/main/resources/assets/bussounds/blockstates/nagi.json"
+          "src/main/resources/assets/bussounds/blockstates/nagi.json",
+          "src/main/resources/assets/bussounds/models/block/nagi.json"
         ]
       },
       "path": "~/Blocs"
@@ -6071,10 +6071,10 @@
       "registry_name": "coeur",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/coeur.json",
-          "src/main/resources/assets/bussounds/blockstates/coeur.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/CoeurBlock.java",
-          "src/main/resources/assets/bussounds/models/item/coeur.json"
+          "src/main/resources/assets/bussounds/models/item/coeur.json",
+          "src/main/resources/assets/bussounds/blockstates/coeur.json",
+          "src/main/resources/assets/bussounds/models/block/coeur.json"
         ]
       },
       "path": "~/Blocs"
@@ -6088,8 +6088,8 @@
       "registry_name": "paix",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/paix.json",
           "src/main/resources/assets/bussounds/models/block/paix.json",
+          "src/main/resources/assets/bussounds/models/item/paix.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/PaixBlock.java",
           "src/main/resources/assets/bussounds/blockstates/paix.json"
         ]
@@ -6106,9 +6106,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/block/charb.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CharbBlock.java",
           "src/main/resources/assets/bussounds/blockstates/charb.json",
-          "src/main/resources/assets/bussounds/models/item/charb.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/CharbBlock.java"
+          "src/main/resources/assets/bussounds/models/item/charb.json"
         ]
       },
       "path": "~/Blocs"
@@ -6122,10 +6122,10 @@
       "registry_name": "loge",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/blockstates/loge.json",
-          "src/main/resources/assets/bussounds/models/block/loge.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/LogeBlock.java",
-          "src/main/resources/assets/bussounds/models/item/loge.json"
+          "src/main/resources/assets/bussounds/models/item/loge.json",
+          "src/main/resources/assets/bussounds/blockstates/loge.json",
+          "src/main/resources/assets/bussounds/models/block/loge.json"
         ]
       },
       "path": "~/Blocs"
@@ -6156,10 +6156,10 @@
       "registry_name": "kiro",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/models/item/kiro.json",
           "src/main/resources/assets/bussounds/blockstates/kiro.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/KiroBlock.java",
           "src/main/resources/assets/bussounds/models/block/kiro.json",
-          "src/main/resources/assets/bussounds/models/item/kiro.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/KiroBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -6173,9 +6173,9 @@
       "registry_name": "universite",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/universite.json",
-          "src/main/resources/assets/bussounds/blockstates/universite.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/UniversiteBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/universite.json",
+          "src/main/resources/assets/bussounds/models/item/universite.json",
           "src/main/resources/assets/bussounds/models/block/universite.json"
         ]
       },
@@ -6190,10 +6190,10 @@
       "registry_name": "campus",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/blockstates/campus.json",
           "src/main/resources/assets/bussounds/models/block/campus.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/CampusBlock.java",
           "src/main/resources/assets/bussounds/models/item/campus.json",
-          "src/main/resources/assets/bussounds/blockstates/campus.json"
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CampusBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -6208,9 +6208,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/item/ecoles.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/EcolesBlock.java",
           "src/main/resources/assets/bussounds/models/block/ecoles.json",
-          "src/main/resources/assets/bussounds/blockstates/ecoles.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/EcolesBlock.java"
+          "src/main/resources/assets/bussounds/blockstates/ecoles.json"
         ]
       },
       "path": "~/Blocs"
@@ -6224,10 +6224,10 @@
       "registry_name": "chants",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/item/chants.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/ChantsBlock.java",
-          "src/main/resources/assets/bussounds/models/block/chants.json",
-          "src/main/resources/assets/bussounds/blockstates/chants.json"
+          "src/main/resources/assets/bussounds/models/item/chants.json",
+          "src/main/resources/assets/bussounds/blockstates/chants.json",
+          "src/main/resources/assets/bussounds/models/block/chants.json"
         ]
       },
       "path": "~/Blocs"
@@ -6241,9 +6241,9 @@
       "registry_name": "verti",
       "metadata": {
         "files": [
+          "src/main/resources/assets/bussounds/models/item/verti.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/VertiBlock.java",
           "src/main/resources/assets/bussounds/blockstates/verti.json",
-          "src/main/resources/assets/bussounds/models/item/verti.json",
           "src/main/resources/assets/bussounds/models/block/verti.json"
         ]
       },
@@ -6259,9 +6259,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/blockstates/martre.json",
-          "src/main/resources/assets/bussounds/models/item/martre.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/MartreBlock.java",
-          "src/main/resources/assets/bussounds/models/block/martre.json"
+          "src/main/resources/assets/bussounds/models/block/martre.json",
+          "src/main/resources/assets/bussounds/models/item/martre.json"
         ]
       },
       "path": "~/Blocs"
@@ -6275,10 +6275,10 @@
       "registry_name": "lithya",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/lithya.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/LithyaBlock.java",
           "src/main/resources/assets/bussounds/models/item/lithya.json",
-          "src/main/resources/assets/bussounds/blockstates/lithya.json"
+          "src/main/resources/assets/bussounds/models/block/lithya.json",
+          "src/main/resources/assets/bussounds/blockstates/lithya.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/LithyaBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -6292,8 +6292,8 @@
       "registry_name": "soleil",
       "metadata": {
         "files": [
-          "src/main/resources/assets/bussounds/models/block/soleil.json",
           "src/main/java/fr/blocblocthebloc/bussounds/block/SoleilBlock.java",
+          "src/main/resources/assets/bussounds/models/block/soleil.json",
           "src/main/resources/assets/bussounds/blockstates/soleil.json",
           "src/main/resources/assets/bussounds/models/item/soleil.json"
         ]
@@ -6310,9 +6310,9 @@
       "metadata": {
         "files": [
           "src/main/java/fr/blocblocthebloc/bussounds/block/SouscoteBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/souscote.json",
           "src/main/resources/assets/bussounds/models/item/souscote.json",
-          "src/main/resources/assets/bussounds/models/block/souscote.json",
-          "src/main/resources/assets/bussounds/blockstates/souscote.json"
+          "src/main/resources/assets/bussounds/models/block/souscote.json"
         ]
       },
       "path": "~/Blocs"
@@ -6326,10 +6326,10 @@
       "registry_name": "elemento",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/ElementoBlock.java",
-          "src/main/resources/assets/bussounds/models/block/elemento.json",
           "src/main/resources/assets/bussounds/blockstates/elemento.json",
-          "src/main/resources/assets/bussounds/models/item/elemento.json"
+          "src/main/resources/assets/bussounds/models/item/elemento.json",
+          "src/main/resources/assets/bussounds/models/block/elemento.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ElementoBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -6343,10 +6343,10 @@
       "registry_name": "pontdelaube",
       "metadata": {
         "files": [
-          "src/main/java/fr/blocblocthebloc/bussounds/block/PontdelaubeBlock.java",
-          "src/main/resources/assets/bussounds/models/item/pontdelaube.json",
           "src/main/resources/assets/bussounds/models/block/pontdelaube.json",
-          "src/main/resources/assets/bussounds/blockstates/pontdelaube.json"
+          "src/main/resources/assets/bussounds/models/item/pontdelaube.json",
+          "src/main/resources/assets/bussounds/blockstates/pontdelaube.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PontdelaubeBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -6361,9 +6361,757 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/bussounds/models/block/bulon.json",
-          "src/main/java/fr/blocblocthebloc/bussounds/block/BulonBlock.java",
           "src/main/resources/assets/bussounds/models/item/bulon.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/BulonBlock.java",
           "src/main/resources/assets/bussounds/blockstates/bulon.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Habitacle",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "habitacle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/habitacle.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/HabitacleBlock.java",
+          "src/main/resources/assets/bussounds/models/block/habitacle.json",
+          "src/main/resources/assets/bussounds/models/item/habitacle.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Luen",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/luen.json",
+          "src/main/resources/assets/bussounds/blockstates/luen.json",
+          "src/main/resources/assets/bussounds/models/item/luen.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/LuenBlock.java"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Hakim",
+      "type": "block",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hakim",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/hakim.json",
+          "src/main/resources/assets/bussounds/blockstates/hakim.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/HakimBlock.java",
+          "src/main/resources/assets/bussounds/models/item/hakim.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Soufflerie",
+      "type": "block",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soufflerie",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/SoufflerieBlock.java",
+          "src/main/resources/assets/bussounds/models/item/soufflerie.json",
+          "src/main/resources/assets/bussounds/models/block/soufflerie.json",
+          "src/main/resources/assets/bussounds/blockstates/soufflerie.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Calamarde",
+      "type": "block",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calamarde",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/calamarde.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CalamardeBlock.java",
+          "src/main/resources/assets/bussounds/models/item/calamarde.json",
+          "src/main/resources/assets/bussounds/models/block/calamarde.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "ParcLogistique",
+      "type": "block",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "parc_logistique",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/parc_logistique.json",
+          "src/main/resources/assets/bussounds/models/item/parc_logistique.json",
+          "src/main/resources/assets/bussounds/models/block/parc_logistique.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ParcLogistiqueBlock.java"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Tails",
+      "type": "block",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tails",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/tails.json",
+          "src/main/resources/assets/bussounds/models/block/tails.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/TailsBlock.java",
+          "src/main/resources/assets/bussounds/models/item/tails.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Pontdelair",
+      "type": "block",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pontdelair",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PontdelairBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/pontdelair.json",
+          "src/main/resources/assets/bussounds/models/item/pontdelair.json",
+          "src/main/resources/assets/bussounds/models/block/pontdelair.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "JardinsdelaGare",
+      "type": "block",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jardinsdela_gare",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/JardinsdelaGareBlock.java",
+          "src/main/resources/assets/bussounds/models/block/jardinsdela_gare.json",
+          "src/main/resources/assets/bussounds/models/item/jardinsdela_gare.json",
+          "src/main/resources/assets/bussounds/blockstates/jardinsdela_gare.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "GareCentrale",
+      "type": "block",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gare_centrale",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/gare_centrale.json",
+          "src/main/resources/assets/bussounds/models/block/gare_centrale.json",
+          "src/main/resources/assets/bussounds/models/item/gare_centrale.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/GareCentraleBlock.java"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Mairie",
+      "type": "block",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mairie",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/MairieBlock.java",
+          "src/main/resources/assets/bussounds/models/block/mairie.json",
+          "src/main/resources/assets/bussounds/blockstates/mairie.json",
+          "src/main/resources/assets/bussounds/models/item/mairie.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Rouloni",
+      "type": "block",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rouloni",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/item/rouloni.json",
+          "src/main/resources/assets/bussounds/blockstates/rouloni.json",
+          "src/main/resources/assets/bussounds/models/block/rouloni.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/RouloniBlock.java"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Sep1",
+      "type": "block",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sep_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/sep_1.json",
+          "src/main/resources/assets/bussounds/models/block/sep_1.json",
+          "src/main/resources/assets/bussounds/models/item/sep_1.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/Sep1Block.java"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Parsolona",
+      "type": "block",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "parsolona",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/parsolona.json",
+          "src/main/resources/assets/bussounds/blockstates/parsolona.json",
+          "src/main/resources/assets/bussounds/models/item/parsolona.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ParsolonaBlock.java"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Sabrina",
+      "type": "block",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sabrina",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/item/sabrina.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/SabrinaBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/sabrina.json",
+          "src/main/resources/assets/bussounds/models/block/sabrina.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "PresBulon",
+      "type": "block",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pres_bulon",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/pres_bulon.json",
+          "src/main/resources/assets/bussounds/models/item/pres_bulon.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PresBulonBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/pres_bulon.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Humbourgeur",
+      "type": "block",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "humbourgeur",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/humbourgeur.json",
+          "src/main/resources/assets/bussounds/models/item/humbourgeur.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/HumbourgeurBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/humbourgeur.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Nord",
+      "type": "block",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nord",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/item/nord.json",
+          "src/main/resources/assets/bussounds/blockstates/nord.json",
+          "src/main/resources/assets/bussounds/models/block/nord.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/NordBlock.java"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Fiouse",
+      "type": "block",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fiouse",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/item/fiouse.json",
+          "src/main/resources/assets/bussounds/models/block/fiouse.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/FiouseBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/fiouse.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Oriental",
+      "type": "block",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oriental",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/item/oriental.json",
+          "src/main/resources/assets/bussounds/models/block/oriental.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/OrientalBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/oriental.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Mont",
+      "type": "block",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mont",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/mont.json",
+          "src/main/resources/assets/bussounds/models/block/mont.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/MontBlock.java",
+          "src/main/resources/assets/bussounds/models/item/mont.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Champsdedavi",
+      "type": "block",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "champsdedavi",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ChampsdedaviBlock.java",
+          "src/main/resources/assets/bussounds/models/item/champsdedavi.json",
+          "src/main/resources/assets/bussounds/blockstates/champsdedavi.json",
+          "src/main/resources/assets/bussounds/models/block/champsdedavi.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Armageddon",
+      "type": "block",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armageddon",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ArmageddonBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/armageddon.json",
+          "src/main/resources/assets/bussounds/models/item/armageddon.json",
+          "src/main/resources/assets/bussounds/models/block/armageddon.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Tetedu",
+      "type": "block",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tetedu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/tetedu.json",
+          "src/main/resources/assets/bussounds/models/item/tetedu.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/TeteduBlock.java",
+          "src/main/resources/assets/bussounds/models/block/tetedu.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Maternel",
+      "type": "block",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maternel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/maternel.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/MaternelBlock.java",
+          "src/main/resources/assets/bussounds/models/item/maternel.json",
+          "src/main/resources/assets/bussounds/models/block/maternel.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "DemiCiel",
+      "type": "block",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demi_ciel",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/DemiCielBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/demi_ciel.json",
+          "src/main/resources/assets/bussounds/models/item/demi_ciel.json",
+          "src/main/resources/assets/bussounds/models/block/demi_ciel.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Porteaubois",
+      "type": "block",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "porteaubois",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/porteaubois.json",
+          "src/main/resources/assets/bussounds/blockstates/porteaubois.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PorteauboisBlock.java",
+          "src/main/resources/assets/bussounds/models/item/porteaubois.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Champonais",
+      "type": "block",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "champonais",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ChamponaisBlock.java",
+          "src/main/resources/assets/bussounds/models/item/champonais.json",
+          "src/main/resources/assets/bussounds/models/block/champonais.json",
+          "src/main/resources/assets/bussounds/blockstates/champonais.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Masteur",
+      "type": "block",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "masteur",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/masteur.json",
+          "src/main/resources/assets/bussounds/blockstates/masteur.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/MasteurBlock.java",
+          "src/main/resources/assets/bussounds/models/item/masteur.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Floch",
+      "type": "block",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "floch",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/floch.json",
+          "src/main/resources/assets/bussounds/models/item/floch.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/FlochBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/floch.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Lumiere",
+      "type": "block",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lumiere",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/lumiere.json",
+          "src/main/resources/assets/bussounds/models/item/lumiere.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/LumiereBlock.java",
+          "src/main/resources/assets/bussounds/models/block/lumiere.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Cheminee",
+      "type": "block",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheminee",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ChemineeBlock.java",
+          "src/main/resources/assets/bussounds/models/item/cheminee.json",
+          "src/main/resources/assets/bussounds/models/block/cheminee.json",
+          "src/main/resources/assets/bussounds/blockstates/cheminee.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Starless",
+      "type": "block",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "starless",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/StarlessBlock.java",
+          "src/main/resources/assets/bussounds/models/item/starless.json",
+          "src/main/resources/assets/bussounds/models/block/starless.json",
+          "src/main/resources/assets/bussounds/blockstates/starless.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Trident",
+      "type": "block",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trident",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/trident.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/TridentBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/trident.json",
+          "src/main/resources/assets/bussounds/models/item/trident.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Banleta",
+      "type": "block",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "banleta",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/banleta.json",
+          "src/main/resources/assets/bussounds/models/item/banleta.json",
+          "src/main/resources/assets/bussounds/models/block/banleta.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/BanletaBlock.java"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "An",
+      "type": "block",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "an",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/AnBlock.java",
+          "src/main/resources/assets/bussounds/models/block/an.json",
+          "src/main/resources/assets/bussounds/models/item/an.json",
+          "src/main/resources/assets/bussounds/blockstates/an.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Samruto",
+      "type": "block",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "samruto",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/SamrutoBlock.java",
+          "src/main/resources/assets/bussounds/models/item/samruto.json",
+          "src/main/resources/assets/bussounds/blockstates/samruto.json",
+          "src/main/resources/assets/bussounds/models/block/samruto.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Dachan",
+      "type": "block",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dachan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/dachan.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/DachanBlock.java",
+          "src/main/resources/assets/bussounds/models/item/dachan.json",
+          "src/main/resources/assets/bussounds/blockstates/dachan.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Crytaline",
+      "type": "block",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crytaline",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/blocblocthebloc/bussounds/block/CrytalineBlock.java",
+          "src/main/resources/assets/bussounds/blockstates/crytaline.json",
+          "src/main/resources/assets/bussounds/models/block/crytaline.json",
+          "src/main/resources/assets/bussounds/models/item/crytaline.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "Kyou",
+      "type": "block",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyou",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/block/kyou.json",
+          "src/main/resources/assets/bussounds/blockstates/kyou.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/KyouBlock.java",
+          "src/main/resources/assets/bussounds/models/item/kyou.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "EcolesNT",
+      "type": "block",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ecoles_nt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/item/ecoles_nt.json",
+          "src/main/resources/assets/bussounds/blockstates/ecoles_nt.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/EcolesNTBlock.java",
+          "src/main/resources/assets/bussounds/models/block/ecoles_nt.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "ResidanceNT",
+      "type": "block",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "residance_nt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/blockstates/residance_nt.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/ResidanceNTBlock.java",
+          "src/main/resources/assets/bussounds/models/block/residance_nt.json",
+          "src/main/resources/assets/bussounds/models/item/residance_nt.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "PontdelaubeNT",
+      "type": "block",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pontdelaube_nt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/item/pontdelaube_nt.json",
+          "src/main/resources/assets/bussounds/blockstates/pontdelaube_nt.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/PontdelaubeNTBlock.java",
+          "src/main/resources/assets/bussounds/models/block/pontdelaube_nt.json"
+        ]
+      },
+      "path": "~/Blocs"
+    },
+    {
+      "name": "MagasinsUsineNT",
+      "type": "block",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magasins_usine_nt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bussounds/models/item/magasins_usine_nt.json",
+          "src/main/resources/assets/bussounds/models/block/magasins_usine_nt.json",
+          "src/main/resources/assets/bussounds/blockstates/magasins_usine_nt.json",
+          "src/main/java/fr/blocblocthebloc/bussounds/block/MagasinsUsineNTBlock.java"
         ]
       },
       "path": "~/Blocs"
@@ -7542,10 +8290,12 @@
       "block.bussounds.hopital": "Hopital",
       "subtitles.aurelien": "",
       "subtitles.point_bronze": "",
+      "block.bussounds.cheminee": "Cheminée",
+      "block.bussounds.luen": "Luen",
       "block.bussounds.outils": "Outils",
       "subtitles.parc_logistique": "",
-      "subtitles.floch": "",
       "block.bussounds.elemento": "Elemento",
+      "subtitles.floch": "",
       "subtitles.bulon": "",
       "block.bussounds.thelay": "Thelay",
       "block.bussounds.feuwar": "Feuwar",
@@ -7560,19 +8310,23 @@
       "subtitles.point_rond": "",
       "subtitles.parc_commun": "",
       "subtitles.eduico": "",
+      "block.bussounds.an": "An",
       "block.bussounds.nov_11": "11 Nov",
       "subtitles.centre_ville": "",
+      "block.bussounds.habitacle": "Habitacle",
       "subtitles.loge": "",
       "subtitles.magasins_usinent": "",
       "subtitles.corps": "",
-      "subtitles.champs_de_ble": "",
       "subtitles.centre_commercial": "",
+      "subtitles.champs_de_ble": "",
       "subtitles.chemin": "",
       "subtitles.roudin": "",
       "block.bussounds.loge": "Loge",
       "subtitles.restauration": "",
       "subtitles.samruto": "",
       "subtitles.troubadour": "",
+      "block.bussounds.nord": "Nord",
+      "item_group.bussounds.sounds": "BusSounds",
       "subtitles.janv_1": "",
       "block.bussounds.leguerrier": "Leguerrier",
       "block.bussounds.charmaux": "Charmaux",
@@ -7581,26 +8335,36 @@
       "block.bussounds.centre_commercial": "Centre Commercial",
       "subtitles.mais": "",
       "subtitles.hopital": "",
+      "block.bussounds.armageddon": "Armageddon",
       "subtitles.pont_deau": "",
-      "block.bussounds.parc_commun": "Parc Commun",
+      "block.bussounds.pontdelair": "Pont de l’air",
       "block.bussounds.degant": "Degant",
+      "block.bussounds.parc_commun": "Parc Commun",
       "block.bussounds.st_poulin": "St Poulin",
-      "block.bussounds.mania": "Mania",
       "subtitles.tetedu": "",
+      "block.bussounds.mania": "Mania",
       "subtitles.masteur": "",
       "block.bussounds.mais": "Mais",
-      "subtitles.rails": "",
-      "subtitles.roland": "",
+      "block.bussounds.hakim": "Hakim",
       "subtitles.coeur": "",
+      "subtitles.roland": "",
+      "subtitles.rails": "",
       "subtitles.campagne": "",
       "block.bussounds.louis": "Louis",
       "subtitles.nord": "",
+      "block.bussounds.soufflerie": "Soufflerie",
+      "block.bussounds.kyou": "Kyou",
+      "block.bussounds.trident": "Trident",
       "subtitles.champs_de_davi": "",
-      "subtitles.surcote": "",
       "subtitles.dachan": "",
+      "subtitles.surcote": "",
+      "block.bussounds.masteur": "Masteur",
+      "block.bussounds.pres_bulon": "Près Bulon",
       "block.bussounds.potage": "Potage",
       "block.bussounds.point_bronze": "Point Bronze",
       "block.bussounds.tunes": "Tunes",
+      "block.bussounds.crytaline": "Crytaline",
+      "block.bussounds.oriental": "Oriental",
       "subtitles.lacanaile": "",
       "subtitles.kyou": "",
       "subtitles.lumiere": "",
@@ -7611,6 +8375,7 @@
       "subtitles.habitacle": "",
       "subtitles.decolor": "",
       "subtitles.nov_11": "",
+      "block.bussounds.tetedu": "Tetedu",
       "block.bussounds.frank": "Frank",
       "block.bussounds.centre_logistique": "Centre Logistique",
       "subtitles.feb_29": "",
@@ -7630,6 +8395,7 @@
       "block.bussounds.use": "Usé",
       "block.bussounds.sans": "Sans",
       "block.bussounds.gare": "Gare",
+      "block.bussounds.calamarde": "Calamarde",
       "block.bussounds.parvi": "Parvi",
       "block.bussounds.theo": "Théo",
       "block.bussounds.ete": "Ete",
@@ -7651,11 +8417,14 @@
       "block.bussounds.marche": "Marché",
       "block.bussounds.abby": "Abby",
       "subtitles.ancienne_gare": "",
+      "block.bussounds.sabrina": "Sabrina",
       "subtitles.abby": "",
       "subtitles.marche": "",
       "block.bussounds.durian": "Durian",
       "block.bussounds.chants": "Chants",
+      "block.bussounds.fiouse": "Fiousé",
       "subtitles.porte_au_bois": "",
+      "block.bussounds.parc_logistique": "Parc Logistique",
       "subtitles.sep_1": "",
       "subtitles.fiouse": "",
       "block.bussounds.bulon": "Bulon",
@@ -7665,6 +8434,8 @@
       "block.bussounds.corps": "Corps",
       "subtitles.sources": "",
       "subtitles.residance": "",
+      "block.bussounds.maternel": "Maternel",
+      "block.bussounds.champonais": "Champonais",
       "block.bussounds.pain": "Pain",
       "subtitles.ecolesnt": "",
       "subtitles.tails": "",
@@ -7672,9 +8443,12 @@
       "block.bussounds.universite": "Université",
       "block.bussounds.duboulange": "Duboulangé",
       "subtitles.mairie": "",
+      "block.bussounds.champsdedavi": "Champs de davi",
+      "block.bussounds.mont": "Mont",
       "subtitles.charmaux": "",
       "block.bussounds.centre_administratif": "Centre Administratif",
       "block.bussounds.theatre": "Théâtre",
+      "block.bussounds.starless": "Starless",
       "subtitles.frank": "",
       "subtitles.roust": "",
       "subtitles.delacour": "",
@@ -7688,12 +8462,14 @@
       "block.bussounds.campus": "Campus",
       "subtitles.rouloni": "",
       "subtitles.soleil": "",
+      "block.bussounds.magasins_usine_nt": "Magasins Usine NT",
       "block.bussounds.place_campagne": "Place Campagne",
       "block.bussounds.roland": "Roland",
       "block.bussounds.chemin": "Chemin",
       "block.bussounds.verti": "Verti",
       "block.bussounds.restauration": "Restauration",
       "block.bussounds.roudin": "Roudin",
+      "block.bussounds.demi_ciel": "Demi-Ciel",
       "subtitles.jardins_de_la_gare": "",
       "subtitles.pont_de_laubent": "",
       "subtitles.ile": "",
@@ -7702,6 +8478,8 @@
       "subtitles.sans": "",
       "subtitles.crytaline": "",
       "block.bussounds.mais_1": "1 Mais",
+      "block.bussounds.rouloni": "Rouloni",
+      "block.bussounds.banleta": "Banleta",
       "subtitles.centre_logistique": "",
       "subtitles.centre_administratif": "",
       "subtitles.ete": "",
@@ -7709,11 +8487,14 @@
       "subtitles.campus": "",
       "block.bussounds.souscote": "Sous coté",
       "subtitles.degant": "",
+      "block.bussounds.sep_1": "1 Sep",
+      "block.bussounds.ecoles_nt": "Écoles NT",
       "subtitles.champonais": "",
       "subtitles.cheminee": "",
       "subtitles.thelay": "",
       "subtitles.feuwar": "",
       "block.bussounds.campagne": "Campagne",
+      "block.bussounds.residance_nt": "Résidance NT",
       "subtitles.sous_cote": "",
       "subtitles.nuances": "",
       "subtitles.pont_de_laube": "",
@@ -7728,9 +8509,11 @@
       "subtitles.residancent": "",
       "subtitles.college_st_demain": "",
       "block.bussounds.troubadour": "Troubadour",
+      "block.bussounds.mairie": "Mairie",
       "block.bussounds.decolor": "Decolor",
       "subtitles.mont": "",
       "subtitles.an": "",
+      "block.bussounds.dachan": "Dachan",
       "subtitles.magasins_usine": "",
       "block.bussounds.champs_de_ble": "Champs De Blé",
       "block.bussounds.ducarton": "Ducarton",
@@ -7741,16 +8524,24 @@
       "subtitles.passage": "",
       "subtitles.pain": "",
       "subtitles.elemento": "",
+      "block.bussounds.gare_centrale": "Gare Centrale",
       "subtitles.calamarde": "",
       "subtitles.soufflerie": "",
+      "block.bussounds.porteaubois": "Porte au bois",
       "subtitles.use": "",
+      "block.bussounds.floch": "Floch",
       "block.bussounds.soleil": "Soleil",
       "block.bussounds.surcote": "Surcote",
+      "block.bussounds.jardinsdela_gare": "Jardins de la Gare",
       "block.bussounds.centre_ville": "Centre Ville",
+      "block.bussounds.humbourgeur": "Humbourgeur",
+      "block.bussounds.parsolona": "Parsolona",
       "block.bussounds.nuances": "Nuances",
       "block.bussounds.rue": "Rue",
       "subtitles.sons": "",
+      "block.bussounds.pontdelaube_nt": "Pont de l’aube NT",
       "subtitles.ecoles": "",
+      "block.bussounds.lumiere": "Lumière",
       "subtitles.tunes": "",
       "subtitles.bourse": "",
       "block.bussounds.renar": "Renar",
@@ -7761,6 +8552,7 @@
       "subtitles.martre": "",
       "subtitles.pres_bulon": "",
       "subtitles.jui_14": "",
+      "block.bussounds.samruto": "Samruto",
       "subtitles.banleta": "",
       "subtitles.clinique": "",
       "subtitles.ducarton": "",
@@ -7776,6 +8568,7 @@
       "subtitles.humbourgeur": "",
       "subtitles.gare_centrale": "",
       "block.bussounds.point_rond": "Point Rond",
+      "block.bussounds.tails": "Tails",
       "block.bussounds.roust": "Roust",
       "block.bussounds.martre": "Martre",
       "subtitles.duboulange": "",
@@ -7800,19 +8593,23 @@
   "workspaceSettings": {
     "modid": "bussounds",
     "modName": "BusSounds",
-    "version": "1.0.0",
-    "author": "Nathan, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "1",
+    "description": "The sounds mod of the project",
+    "author": "BlocBlocTheBloc",
+    "websiteURL": "https://github.com/BlocBlocTheBloc0/MinecraftBus",
+    "license": "Public Domain",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
-    "requiredMods": [],
+    "requiredMods": [
+      "busverif"
+    ],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.19.2",
+    "currentGenerator": "forge-1.19.4",
+    "credits": "The sounds mod for Minecraft Bus Project !",
     "modElementsPackage": "fr.blocblocthebloc.bussounds",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202300108712
+  "mcreatorVersion": 202300224119
 }

@@ -4,7 +4,7 @@ license="Public Domain"
 
 [[mods]]
 modId="bussounds"
-version="1.2"
+version="1"
 displayName="BusSounds"
 credits="The sounds mod for Minecraft Bus Project !"
 displayURL="https://github.com/BlocBlocTheBloc0/MinecraftBus"
@@ -20,7 +20,7 @@ description="The sounds mod of the project"
 
 
 [[dependencies.bussounds]]
-    modId="busverifmod"
+    modId="busverif"
     mandatory=true
     versionRange="[0,)"
     ordering="NONE"
